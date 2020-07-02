@@ -1,0 +1,10 @@
+.logo{
+    width: 120px;
+}
+.shift-y{
+    transform: translateY(13vh);
+}
+
+.transaction{
+    width: 40%;
+}
